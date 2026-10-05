@@ -24,11 +24,11 @@
 
 ## Điều ngạc nhiên nhất khi làm lab này
 
-_(Optional, 1–2 câu)_
+Điều làm tôi ngạc nhiên nhất là việc rò rỉ dữ liệu (data leakage) lại cực kỳ dễ xảy ra và khó phát hiện. Chẳng hạn như việc dùng sai point-in-time join thành latest-value join, hay việc rò rỉ bảo mật dữ liệu giữa các khách hàng (cross-tenant) chỉ vì quên bật tham số `namespaced` trong Semantic Cache.
 
 ---
 
 ## Bonus challenge
 
 - [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
+- [ ] Pair work với: _Không có_
